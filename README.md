@@ -18,13 +18,13 @@ What it does
 - Zero tick cost; runs only at load/reload.
 
 Install
-- Requires Fabric Loader and Fabric API.
+- Requires [Fabric](https://fabricmc.net/) and [Fabric API](https://modrinth.com/mod/fabric-api).
 - Drop the mod jar into `mods/` and launch.
 
 Configure
 - File: `config/only_vanilla_advancements.toml` (created on first run).
 - Keys: `kept_mods`, `kept_advancements`, `removed_mods`, `removed_advancements`, `keep_parent_advancements`.
-- Optional UI: If you also install Mod Menu and Cloth Config, you get an in‑game config screen.
+- Optional UI: If you also install [Mod Menu](https://modrinth.com/mod/modmenu) and [Cloth Config](https://modrinth.com/mod/cloth-config), you get an in‑game config screen.
 
 Compatibility
 - Server‑side logic; works in singleplayer (integrated server) and dedicated servers.

@@ -1,6 +1,6 @@
-package com.codex.nomodadv.integration;
+package com.codex.onlyvanadv.integration;
 
-import com.codex.nomodadv.integration.cloth.ClothConfigCompat;
+import com.codex.onlyvanadv.integration.cloth.ClothConfigCompat;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 import net.fabricmc.loader.api.FabricLoader;

@@ -16,10 +16,10 @@
 	"environment": "*",
     "entrypoints": {
         "main": [
-            "com.codex.nomodadv.OnlyVanillaAdvancements"
+            "com.codex.onlyvanadv.OnlyVanillaAdvancements"
         ],
         "modmenu": [
-            "com.codex.nomodadv.integration.ModMenuCompat"
+            "com.codex.onlyvanadv.integration.ModMenuCompat"
         ]
     },
     "mixins": [],

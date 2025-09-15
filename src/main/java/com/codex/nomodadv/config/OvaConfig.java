@@ -1,4 +1,4 @@
-package com.codex.nomodadv.config;
+package com.codex.onlyvanadv.config;
 
 import com.electronwill.nightconfig.core.CommentedConfig;
 import com.electronwill.nightconfig.core.file.CommentedFileConfig;

@@ -1,6 +1,6 @@
-package com.codex.nomodadv;
+package com.codex.onlyvanadv;
 
-import com.codex.nomodadv.config.OvaConfig;
+import com.codex.onlyvanadv.config.OvaConfig;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents;
 import net.minecraft.advancement.PlacedAdvancement;

@@ -1,6 +1,6 @@
-package com.codex.nomodadv.integration.cloth;
+package com.codex.onlyvanadv.integration.cloth;
 
-import com.codex.nomodadv.config.OvaConfig;
+import com.codex.onlyvanadv.config.OvaConfig;
 import me.shedaniel.clothconfig2.api.ConfigBuilder;
 import me.shedaniel.clothconfig2.api.ConfigCategory;
 import me.shedaniel.clothconfig2.api.ConfigEntryBuilder;

@@ -39,7 +39,6 @@ public final class OvaConfig {
         }
         try (CommentedFileConfig c = CommentedFileConfig.builder(path)
                 .preserveInsertionOrder()
-                .autosave()
                 .writingMode(WritingMode.REPLACE)
                 .build()) {
             c.load();
@@ -71,7 +70,6 @@ public final class OvaConfig {
 
         try (CommentedFileConfig c = CommentedFileConfig.builder(path)
                 .preserveInsertionOrder()
-                .autosave()
                 .writingMode(WritingMode.REPLACE)
                 .build()) {
             c.load();
